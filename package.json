@@ -1,0 +1,19 @@
+{
+  "name": "climate-change-api",
+  "version": "1.0.0",
+  "description": "A toy REST api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzfrank/climate-change-api.git"
+  },
+  "author": "jin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzfrank/climate-change-api/issues"
+  },
+  "homepage": "https://github.com/jzfrank/climate-change-api#readme"
+}
