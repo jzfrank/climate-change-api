@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jzfrank/climate-change-api/issues"
   },
-  "homepage": "https://github.com/jzfrank/climate-change-api#readme"
+  "homepage": "https://github.com/jzfrank/climate-change-api#readme",
+  "dependencies": {
+    "nodemon": "^2.0.18"
+  }
 }
